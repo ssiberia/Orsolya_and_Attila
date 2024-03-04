@@ -43,14 +43,14 @@
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/stuff.html",
             "title": "Magyar verzió",
             "summary": "Automatikus Naptár Bejegyzés: Naptárbejegyzés Kedves vendégeink,",
-            "content_html": "<p>Automatikus Naptár Bejegyzés: <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\">Naptárbejegyzés</a></p>\n<p>Kedves vendégeink,</p>\n<p> </p>",
+            "content_html": "<p>Automatikus Naptár Bejegyzés: <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\" download>Naptárbejegyzés</a></p>\n<p>Kedves vendégeink,</p>\n<p> </p>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-03-04T10:40:34+01:00",
-            "date_modified": "2024-03-04T11:31:45+01:00"
+            "date_modified": "2024-03-04T11:33:39+01:00"
         }
     ]
 }
