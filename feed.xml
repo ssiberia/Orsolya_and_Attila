@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Orsolya &amp; Attila</title>
+    <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
+    <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
+    <updated>2024-03-04T10:41:38+01:00</updated>
+    <author>
+        <name>Attila Kovacs</name>
+    </author>
+    <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
+
+    <entry>
+        <title>English version</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/english-version.html"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/english-version.html</id>
+
+        <updated>2024-03-04T10:41:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Salalala it works
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Salalala it works</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Deutsche version</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version.html"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version.html</id>
+
+        <updated>2024-03-04T10:41:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Salalala funktioniert
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Salalala funktioniert</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Magyar verzió</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/stuff.html"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/stuff.html</id>
+
+        <updated>2024-03-04T10:41:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Salalala müködik
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Salalala müködik</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
