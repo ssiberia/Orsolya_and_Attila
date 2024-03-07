@@ -11,46 +11,32 @@
     },
     "items": [
         {
-            "id": "https://ssiberia.github.io/Orsolya_and_Attila/english-version/",
-            "url": "https://ssiberia.github.io/Orsolya_and_Attila/english-version/",
-            "title": "Wedding of Orsolya and Attila",
-            "summary": "Salalala it works",
-            "content_html": "<p>Salalala it works</p>",
-            "author": {
-                "name": "Attila Kovacs"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-04T10:41:38+01:00",
-            "date_modified": "2024-03-04T11:44:17+01:00"
-        },
-        {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
             "title": "Hochzeit von Orsolya und Attila",
-            "summary": "Salalala funktioniert",
-            "content_html": "<p>Salalala funktioniert</p>",
+            "summary": "Automatische Kalendar eintrag: link Karte: link",
+            "content_html": "<p>Automatische Kalendar eintrag: <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\">link</a></p>\n<p>Karte: <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a></p>\n<p> </p>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-03-04T10:41:30+01:00",
-            "date_modified": "2024-03-04T11:44:09+01:00"
+            "date_modified": "2024-03-07T17:43:04+01:00"
         },
         {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/stuff/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/stuff/",
             "title": "Orsolya és Attila esküvője",
-            "summary": "Automatikus Naptár Bejegyzés: Naptárbejegyzés Kedves vendégeink,",
-            "content_html": "<p>Automatikus Naptár Bejegyzés: <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\" download>Naptárbejegyzés</a></p>\n<p>Kedves vendégeink,</p>\n<p> </p>",
+            "summary": "📅 Automatikus Naptár Bejegyzés: link 🗺 Térkép: link",
+            "content_html": "<p>📅 Automatikus Naptár Bejegyzés: <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\" download>link</a></p>\n<p>🗺 Térkép: <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a></p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>\n<p> </p>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-03-04T10:40:34+01:00",
-            "date_modified": "2024-03-04T11:45:40+01:00"
+            "date_modified": "2024-03-07T17:51:38+01:00"
         }
     ]
 }
