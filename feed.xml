@@ -3,12 +3,24 @@
     <title>Orsolya &amp; Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-03-27T14:56:49+01:00</updated>
+    <updated>2024-03-27T20:19:46+01:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
     <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
 
+    <entry>
+        <title>Eseménynapló / Tagesplan</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/</id>
+
+        <updated>2024-03-27T20:08:44+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Hochzeit von Orsolya und Attila</title>
         <author>
@@ -42,20 +54,30 @@
         <link href="https://ssiberia.github.io/Orsolya_and_Attila/stuff/"/>
         <id>https://ssiberia.github.io/Orsolya_and_Attila/stuff/</id>
 
-        <updated>2024-03-27T14:56:49+01:00</updated>
+        <updated>2024-03-27T20:19:46+01:00</updated>
             <summary>
                 <![CDATA[
-                    Tiszteld Vendégeink, Az alábbi linken további információkat találhattok a rendezvény pontos helyszinéről, parkolási lehetőségekkel megjelölve: 🗺 link Automatikus naptár bejegyzés személyes naptárba: 🗓 link Távolról érkező vendégeink részére a szállással kapcsolatos kérdésekkel kérjük az ünnepeltekhez fordulni személyes egyeztetésre. Nem kell ajándék, csak pénz!
+                    Kedves Vendégeink! 🚘 A helyszín megközelítése: link 🗓 Naptárbejegyzés: link 🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez. ✈️ Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Tiszteld Vendégeink,</p>
-<p>Az alábbi linken további információkat találhattok a rendezvény pontos helyszinéről, parkolási lehetőségekkel megjelölve: 🗺 <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">link</a></p>
-<p>Automatikus naptár bejegyzés személyes naptárba: 🗓 <a href="https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics" download>link</a></p>
-<p>Távolról érkező vendégeink részére a szállással kapcsolatos kérdésekkel kérjük az ünnepeltekhez fordulni személyes egyeztetésre.</p>
-<p>Nem kell ajándék, csak pénz!</p>
-<p> </p>
+                <p> </p>
+<table class="align-center" style="border-collapse: collapse; width: 128.917%; border-style: hidden; height: 579px;" border="0">
+<tbody>
+<tr>
+<td style="width: 42.2108%;">
+<p class="align-left">Kedves Vendégeink!</p>
+<p class="align-left">🚘 A helyszín megközelítése: <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">link</a></p>
+<p class="align-left">🗓 Naptárbejegyzés:  <a href="https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics" download>link</a></p>
+<p class="align-left">🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez.</p>
+<p class="align-left">✈️ Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.</p>
+</td>
+<td style="width: 57.7909%;"><figure class="post__image align-center"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/1630-2-.png" alt="" width="605" height="855" sizes="100vw" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/responsive/1630-2--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/responsive/1630-2--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/responsive/1630-2--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/responsive/1630-2--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/responsive/1630-2--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/1/responsive/1630-2--2xl.png 1600w"></figure></td>
+</tr>
+</tbody>
+</table>
+<p class="align-center"> </p>
 <p>
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
 </p>
