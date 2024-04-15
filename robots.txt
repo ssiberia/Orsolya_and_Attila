@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://ssiberia.github.io/Orsolya_and_Attila/sitemap.xml
+Disallow: /
