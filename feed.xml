@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Orsolya &amp; Attila</title>
+    <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
+    <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
+    <updated>2024-03-27T21:17:23+01:00</updated>
+    <author>
+        <name>Attila Kovacs</name>
+    </author>
+    <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
+
+    <entry>
+        <title>Eseménynapló / Tagesplan</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/</id>
+
+        <updated>2024-03-27T20:08:44+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Hochzeit von Orsolya und Attila</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/</id>
+
+        <updated>2024-03-04T10:41:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Liebe Gäste, weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 link Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href="https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. TUDOM SZAR MAJD KIJAVITOD GECC</p>
+<p>keine geschanke sondern geld geld geld</p>
+<p>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
+</p>
+<div class="commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2"> </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Orsolya és Attila esküvője </title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/stuff/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/stuff/</id>
+
+        <updated>2024-03-04T10:40:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Kedves Vendégeink! 🚘 A helyszín megközelítése: link 🗓 Naptárbejegyzés: link 🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez. 🎁 Nagy örömünkre szolgálna,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">Kedves Vendégeink!</p>
+<p class="align-left">🚘 A helyszín megközelítése: <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">link</a></p>
+<p class="align-left">🗓 Naptárbejegyzés:  <a href="file:///Users/akovacs/Documents/Publii/sites/orsolya-and-attila/preview/Orsolya_and_Attila.ics" download="">link</a></p>
+<p class="align-left">🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez.</p>
+<p class="align-left">🎁 Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.</p>
+<p>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
+</p>
+<div class="commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2"> </div>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,54 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Orsolya &amp; Attila",
+    "description": "",
+    "home_page_url": "https://ssiberia.github.io/Orsolya_and_Attila",
+    "feed_url": "https://ssiberia.github.io/Orsolya_and_Attila/feed.json",
+    "user_comment": "",
+    "icon": "https://ssiberia.github.io/Orsolya_and_Attila/media/website/Orsi-and-Attila444.png",
+    "author": {
+        "name": "Attila Kovacs"
+    },
+    "items": [
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/",
+            "title": "Eseménynapló / Tagesplan",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-27T20:08:44+01:00",
+            "date_modified": "2024-03-27T20:08:44+01:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
+            "title": "Hochzeit von Orsolya und Attila",
+            "summary": "Liebe Gäste, weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 link Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓&hellip;",
+            "content_html": "<p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. TUDOM SZAR MAJD KIJAVITOD GECC</p>\n<p>keine geschanke sondern geld geld geld</p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-04T10:41:30+01:00",
+            "date_modified": "2024-03-27T14:56:37+01:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/stuff/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/stuff/",
+            "title": "Orsolya és Attila esküvője ",
+            "summary": "Kedves Vendégeink! 🚘 A helyszín megközelítése: link 🗓 Naptárbejegyzés: link 🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez. 🎁 Nagy örömünkre szolgálna,&hellip;",
+            "content_html": "<p class=\"align-left\">Kedves Vendégeink!</p>\n<p class=\"align-left\">🚘 A helyszín megközelítése: <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a></p>\n<p class=\"align-left\">🗓 Naptárbejegyzés:  <a href=\"file:///Users/akovacs/Documents/Publii/sites/orsolya-and-attila/preview/Orsolya_and_Attila.ics\" download=\"\">link</a></p>\n<p class=\"align-left\">🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez.</p>\n<p class=\"align-left\">🎁 Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.</p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-04T10:40:34+01:00",
+            "date_modified": "2024-03-27T21:17:23+01:00"
+        }
+    ]
+}
