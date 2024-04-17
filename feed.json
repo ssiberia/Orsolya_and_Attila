@@ -11,44 +11,142 @@
     },
     "items": [
         {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/photos/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/photos/",
+            "title": "Photos",
+            "summary": "Hier wird alle Photos von unserer Hochzeit hochgeladen.",
+            "content_html": "<p>Hier wird alle Photos von unserer Hochzeit hochgeladen.</p>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T20:14:30+02:00",
+            "date_modified": "2024-04-15T20:14:30+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/einladung/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/einladung/",
+            "title": "Einladung",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/Capture-2.PNG\" alt=\"\" width=\"1011\" height=\"725\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/responsive/Capture-2-xs.PNG 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/responsive/Capture-2-sm.PNG 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/responsive/Capture-2-md.PNG 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/responsive/Capture-2-lg.PNG 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/responsive/Capture-2-xl.PNG 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/10/responsive/Capture-2-2xl.PNG 1600w\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T20:07:42+02:00",
+            "date_modified": "2024-04-15T20:07:46+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/geschaenk/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/geschaenk/",
+            "title": "Geschenk",
+            "summary": "\"Statt Hochzeitsgeschenke freuen wir uns über eure Unterstützung für unsere Flitterwochen.",
+            "content_html": "<p class=\"align-center\"><em>\"Statt Hochzeitsgeschenke freuen wir uns über eure Unterstützung für unsere Flitterwochen.</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/9/gift-2.avif\" alt=\"\" width=\"2000\" height=\"2000\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T19:48:37+02:00",
+            "date_modified": "2024-04-15T19:51:31+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/speisekarte/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/speisekarte/",
+            "title": "Speisekarte",
+            "summary": "Die Speisekarte wird an dem Hochzeitstag hochgeladen.",
+            "content_html": "<p class=\"align-center\">Die Speisekarte wird an dem Hochzeitstag hochgeladen.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/food.jpg\" alt=\"\" width=\"900\" height=\"600\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/responsive/food-xs.jpg 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/responsive/food-sm.jpg 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/responsive/food-md.jpg 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/responsive/food-lg.jpg 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/responsive/food-xl.jpg 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/8/responsive/food-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T19:34:46+02:00",
+            "date_modified": "2024-04-15T19:37:51+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/fotok/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/fotok/",
+            "title": "Fotók",
+            "summary": "Itt találhatjátok majd az esküvőnk késztett fotókat 😚",
+            "content_html": "<p class=\"align-center\">Itt találhatjátok majd az esküvőnk késztett fotókat 😚</p>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T19:31:40+02:00",
+            "date_modified": "2024-04-15T19:37:48+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/",
+            "title": "Nászajándék",
+            "summary": "\"Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.\"",
+            "content_html": "<p class=\"align-center\"><em>\"Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.\"</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/6/gift.avif\" alt=\"\" width=\"2000\" height=\"2000\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T19:08:19+02:00",
+            "date_modified": "2024-04-15T19:15:41+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/etlap/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/etlap/",
+            "title": "Étlap",
+            "summary": "Az étlap az esküvő napján kerül feltötésre.",
+            "content_html": "<p class=\"align-center\">Az étlap az esküvő napján kerül feltötésre. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/food.jpg\" alt=\"\" width=\"729\" height=\"486\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xs.jpg 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-sm.jpg 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-md.jpg 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-lg.jpg 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xl.jpg 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T18:07:27+02:00",
+            "date_modified": "2024-04-15T19:30:11+02:00"
+        },
+        {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/",
             "title": "Eseménynapló / Tagesplan",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/Esemenyek-.png\" alt=\"\" width=\"1414\" height=\"2000\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--2xl.png 1600w\"><figcaption></figcaption></figure>\n<p> </p>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-03-27T20:08:44+01:00",
-            "date_modified": "2024-03-27T20:08:44+01:00"
+            "date_modified": "2024-04-15T18:23:08+02:00"
         },
         {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
             "title": "Hochzeit von Orsolya und Attila",
-            "summary": "Liebe Gäste, weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 link Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓&hellip;",
-            "content_html": "<p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. TUDOM SZAR MAJD KIJAVITOD GECC</p>\n<p>keine geschanke sondern geld geld geld</p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>",
+            "summary": "Einladung Lokation ⛪ Datum 📆 Timeline 🕒 Speisekarte 🍴 Geschenk 🎁 Photos 📸 Liebe Freunde und Freundinnen! Bitte bezüglich Liebe Gäste, weitere Informationen über&hellip;",
+            "content_html": "<table style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); width: 107.977%; height: 99.7188px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 36.4738%;\"> </td>\n<td class=\"align-center\" style=\"width: 37.8197%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/einladung/\">Einladung</a></td>\n<td style=\"width: 25.7066%;\"> </td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td class=\"align-center\" style=\"width: 36.4738%; height: 50.3594px;\"><a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\">Lokation ⛪</a></td>\n<td class=\"align-center\" style=\"width: 37.8197%; height: 50.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\" rel=\"nofollow\" download>Datum 📆</a></td>\n<td class=\"align-center\" style=\"width: 25.7066%; height: 50.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/\">Timeline 🕒</a></td>\n</tr>\n<tr style=\"height: 49.3594px;\">\n<td class=\"align-center\" style=\"width: 36.4738%; height: 49.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/speisekarte/\">Speisekarte 🍴</a><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/etlap/\"></a></td>\n<td class=\"align-center\" style=\"width: 37.8197%; height: 49.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/geschaenk/\">Geschenk 🎁</a></td>\n<td class=\"align-center\" style=\"width: 25.7066%; height: 49.3594px;\"> <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/photos/\">Photos 📸</a></td>\n</tr>\n</tbody>\n</table>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/2/Orsolya-es-Attila_de-2-2.pdf\" alt=\"\"></figure>\n<p>Liebe Freunde und Freundinnen!</p>\n<p>Bitte  bezüglich </p>\n<p> </p>\n<p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. </p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-03-04T10:41:30+01:00",
-            "date_modified": "2024-03-27T14:56:37+01:00"
+            "date_modified": "2024-04-17T08:06:11+02:00"
         },
         {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/stuff/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/stuff/",
             "title": "Orsolya és Attila esküvője ",
-            "summary": "Kedves Vendégeink! 🚘 A helyszín megközelítése: link 🗓 Naptárbejegyzés: link 🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez. 🎁 Nagy örömünkre szolgálna,&hellip;",
-            "content_html": "<p class=\"align-left\">Kedves Vendégeink!</p>\n<p class=\"align-left\">🚘 A helyszín megközelítése: <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a></p>\n<p class=\"align-left\">🗓 Naptárbejegyzés:  <a href=\"file:///Users/akovacs/Documents/Publii/sites/orsolya-and-attila/preview/Orsolya_and_Attila.ics\" download=\"\">link</a></p>\n<p class=\"align-left\">🛏 Távolról érkező vendégeink a szállással kapcsolatos kérdéseikkel forduljanak személyesen az ünnepeltekhez.</p>\n<p class=\"align-left\">🎁 Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.</p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>",
+            "summary": "Távolról érkező Rokonok és Barátok! Kérünk benneteket, hogy szállásigényeitekkel és az ezzel kapcsolatos kérdéseitekkel forduljatok személyes hozzánk. Szeretnénk mindenki számára a legkényelmesebb és legmegfelelőbb szállást biztosítani.",
+            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 107.977%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 36.4738%;\"><a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\">Helyszín ⛪</a></td>\n<td class=\"align-center\" style=\"width: 37.8197%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\" rel=\"nofollow\" download>Naptárbejegyzés 📆</a></td>\n<td class=\"align-center\" style=\"width: 25.7066%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/\">Eseménynapló 🕒</a></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 36.4738%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/etlap/\">Étlap 🍴</a><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/etlap/\"></a></td>\n<td class=\"align-center\" style=\"width: 37.8197%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/\">Nászajándék 🎁</a></td>\n<td style=\"width: 25.7066%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/fotok/\">Fotók 📸</a></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p class=\"align-center\">Távolról érkező Rokonok és Barátok!</p>\n<p class=\"align-center\">Kérünk benneteket, hogy <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">szállásigényeitekkel és az ezzel kapcsolatos</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">kérdéseitekkel </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">forduljatok</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">személyes hozzánk. </span></p>\n<p class=\"align-center\"><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Szeretnénk mindenki </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">számára</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> a legkényelmesebb és legmegfelelőbb szállást biztosítani. Ennek érdekében kérünk, hogy minél hamarabb vegyétek fel velünk a kapcsolatot.</span></p>\n<p class=\"align-center\">Előre is köszönjük! </p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-03-04T10:40:34+01:00",
-            "date_modified": "2024-03-27T21:17:23+01:00"
+            "date_modified": "2024-04-17T08:12:24+02:00"
         }
     ]
 }
