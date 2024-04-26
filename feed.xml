@@ -3,12 +3,28 @@
     <title>Orsolya &amp; Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-04-23T19:58:56+02:00</updated>
+    <updated>2024-04-26T14:27:33+02:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
     <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
 
+    <entry>
+        <title>Eseménynapló</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-hu/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-hu/</id>
+
+        <updated>2024-04-26T14:26:10+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/Timeline-HU1-.png" alt="" width="1414" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Photos</title>
         <author>
@@ -214,48 +230,6 @@
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
 </p>
 <div class="commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2"> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Orsolya és Attila esküvője </title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/stuff/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/stuff/</id>
-
-        <updated>2024-03-04T10:40:34+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Távolról érkező Rokonok és Barátok! Kérünk benneteket, hogy szállásigényeitekkel és az ezzel kapcsolatos kérdéseitekkel forduljatok személyes hozzánk. Szeretnénk mindenki számára a legkényelmesebb és legmegfelelőbb szállást biztosítani.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"> </p>
-<table class="align-center" style="border-collapse: collapse; width: 91.3105%; height: 105px;" border="1">
-<tbody>
-<tr style="height: 51.3594px;">
-<td class="align-center" style="width: 36.6197%; height: 51.3594px;"><a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing">Helyszín ⛪</a></td>
-<td class="align-center" style="width: 37.7152%; height: 51.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics" rel="nofollow" download>Naptárbejegyzés 📆</a></td>
-<td style="width: 25.6651%; height: 51.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/">Időrend 🕒</a></td>
-</tr>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 36.6197%; height: 50.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/etlap/">Étlap 🍴</a><a href="https://ssiberia.github.io/Orsolya_and_Attila/etlap/"></a></td>
-<td class="align-center" style="width: 37.7152%; height: 50.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/">Nászajándék 🎁</a></td>
-<td style="width: 25.6651%; height: 50.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/fotok/">Fotók 📸</a></td>
-</tr>
-</tbody>
-</table>
-<p class="align-center"> </p>
-<p class="align-center">Távolról érkező Rokonok és Barátok!</p>
-<p class="align-center">Kérünk benneteket, hogy <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">szállásigényeitekkel és az ezzel kapcsolatos</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">kérdéseitekkel </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">forduljatok</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">személyes hozzánk. </span></p>
-<p class="align-center"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Szeretnénk mindenki </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">számára</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> a legkényelmesebb és legmegfelelőbb szállást biztosítani. Ennek érdekében kérünk, hogy minél hamarabb vegyétek fel velünk a kapcsolatot.</span></p>
-<p class="align-center">Előre is köszönjük! </p>
-<p>
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
-</p>
             ]]>
         </content>
     </entry>
