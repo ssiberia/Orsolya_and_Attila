@@ -3,14 +3,14 @@
     <title>Orsolya &amp; Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-04-26T14:32:45+02:00</updated>
+    <updated>2024-05-17T12:23:47+02:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
     <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
 
     <entry>
-        <title>Eseménynapló</title>
+        <title>Időrend</title>
         <author>
             <name>Attila Kovacs</name>
         </author>
@@ -117,12 +117,12 @@
         <updated>2024-04-15T19:31:40+02:00</updated>
             <summary>
                 <![CDATA[
-                    Itt találhatjátok majd az esküvőnk késztett fotókat 😚
+                    Itt találhatjátok majd az esküvőnkön készített fotókat 😚
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">Itt találhatjátok majd az esküvőnk késztett fotókat 😚</p>
+                <p class="align-center">Itt találhatjátok majd az esküvőnkön készített fotókat 😚</p>
             ]]>
         </content>
     </entry>
@@ -224,8 +224,6 @@
 <p class="align-center">Herzlich Wilkommen an unserer Webseite!</p>
 <p class="align-center">Bitte wendet euch mit euren Unterkunftswünschen und Fragen persönlich an uns.<br><br>Wir möchten uns jeden für eine möglichst komfortable und passende Unterkunft sorgen. Bitte kontaktiert ihr uns daher so bald wie möglich.</p>
 <p> </p>
-<p> </p>
-<p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href="https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. </p>
 <p>
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
 </p>
