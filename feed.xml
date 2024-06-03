@@ -3,7 +3,7 @@
     <title>Orsolya &amp;amp; Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-05-17T12:57:25+02:00</updated>
+    <updated>2024-06-03T16:45:34+02:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
@@ -169,7 +169,7 @@
         </content>
     </entry>
     <entry>
-        <title>Eseménynapló / Tagesplan</title>
+        <title>Tagesplan</title>
         <author>
             <name>Attila Kovacs</name>
         </author>
@@ -180,8 +180,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/Esemenyek-.png" alt="" width="1414" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--2xl.png 1600w"><figcaption></figcaption></figure>
-<p> </p>
+                <figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/2024-06-03-16.44.37.jpg" alt="" width="906" height="1280" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/2024-06-03-16.44.37-xs.jpg 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/2024-06-03-16.44.37-sm.jpg 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/2024-06-03-16.44.37-md.jpg 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/2024-06-03-16.44.37-lg.jpg 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/2024-06-03-16.44.37-xl.jpg 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/2024-06-03-16.44.37-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
