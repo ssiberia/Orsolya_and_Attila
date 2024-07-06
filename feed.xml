@@ -3,12 +3,58 @@
     <title>Orsolya and Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-07-06T12:24:09+02:00</updated>
+    <updated>2024-07-06T12:35:43+02:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
     <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
 
+    <entry>
+        <title>Unterkunft</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas-2/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas-2/</id>
+
+        <updated>2024-07-06T12:26:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    🏩 Alle Zimmer sind mit einer Klimaanlage und einer Minibar (gegen Aufpreis) ausgestattet. 🕘 Die Zimmerübernahme ab 15.00 Uhr und bitte die Zimmer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>🏩 Alle Zimmer sind mit einer Klimaanlage und einer Minibar (gegen Aufpreis) ausgestattet.</li>
+<li>🕘 Die Zimmerübernahme ab 15.00 Uhr und bitte die Zimmer bis 11.00 Uhr verlassen.</li>
+<li>🍳 Frühstück: am nächsten Tag zwischen 7:00-11:00 Uhr im Restaurant, in der Unterkunft inbegriffen.</li>
+<li>🅿️ Die Zimmer sind auf zwei Gebäude verteilt, die nahe beieinander liegen: Gebäude A und B.</li>
+</ul>
+<p class="align-center">🛠️ Die Zimmeraufteilung wird noch hochgeladenn...🛠️</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sitzplan</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/uelesrend-2/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/uelesrend-2/</id>
+
+        <updated>2024-07-06T12:26:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    🛠️ In Bearbeitung... 🛠️
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">🛠️ In Bearbeitung... 🛠️</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Szállás</title>
         <author>
@@ -169,48 +215,6 @@
         <content type="html">
             <![CDATA[
                 <p class="align-center">Itt találhatjátok majd az esküvőnkön készített fotókat 😚</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nászajándék</title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/</id>
-
-        <updated>2024-04-15T19:08:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                    "Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok."
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"><em>"Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok."</em></p>
-<figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/6/gift.avif" alt="" width="2000" height="2000"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Étlap</title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/etlap/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/etlap/</id>
-
-        <updated>2024-04-15T18:07:27+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Az étlap az esküvő napján kerül feltöltésre.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center">Az étlap az esküvő napján kerül feltöltésre. </p>
-<figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/food.jpg" alt="" width="729" height="486" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xs.jpg 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-sm.jpg 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-md.jpg 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-lg.jpg 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xl.jpg 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
