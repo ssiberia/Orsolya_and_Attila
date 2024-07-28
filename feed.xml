@@ -3,7 +3,7 @@
     <title>Orsolya and Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-07-28T12:25:38+02:00</updated>
+    <updated>2024-07-28T12:27:40+02:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
@@ -31,7 +31,19 @@
 <li>🍳 Frühstück: am nächsten Tag zwischen 7:00-11:00 Uhr im Restaurant, in der Unterkunft inbegriffen.</li>
 <li>🅿️ Die Zimmer sind auf zwei Gebäude verteilt, die nahe beieinander liegen: Gebäude A und B.</li>
 </ul>
-<p class="align-center">🛠️ Die Zimmeraufteilung wird noch hochgeladenn...🛠️</p>
+<h3 class="align-center">Zimmeraufteilung</h3>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 49.9288%;"><strong>A4</strong></td>
+<td class="align-center" style="width: 49.9288%;"><strong>A6</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 49.9288%;">Maike Tschiedel<br>Florian Tschiedel<br>Elias Tschiedel</td>
+<td class="align-center" style="width: 49.9288%;">Lucian Cioltan</td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
