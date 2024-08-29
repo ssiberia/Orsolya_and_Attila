@@ -56,15 +56,14 @@
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/uelesrend/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/uelesrend/",
             "title": "Ülésrend",
-            "summary": "🛠️ Feltöltés alatt... 🛠️",
-            "content_html": "<p class=\"align-center\">🛠️ Feltöltés alatt... 🛠️</p>",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/Screenshot-2024-08-29-at-11.34.16.png\" alt=\"ülésrend\" width=\"1100\" height=\"786\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-2xl.png 1600w\"></figure>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-07-06T11:55:05+02:00",
-            "date_modified": "2024-08-29T11:30:29+02:00"
+            "date_modified": "2024-08-29T11:36:13+02:00"
         },
         {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-hu/",
