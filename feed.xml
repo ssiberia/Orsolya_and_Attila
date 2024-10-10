@@ -1,201 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Orsolya and Attila</title>
+    <title>Orsolya &amp; Attila</title>
     <link href="https://ssiberia.github.io/Orsolya_and_Attila/feed.xml" rel="self" />
     <link href="https://ssiberia.github.io/Orsolya_and_Attila" />
-    <updated>2024-08-29T11:36:13+02:00</updated>
+    <updated>2024-10-10T10:32:17+02:00</updated>
     <author>
         <name>Attila Kovacs</name>
     </author>
     <id>https://ssiberia.github.io/Orsolya_and_Attila</id>
 
     <entry>
-        <title>Unterkunft</title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas-2/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas-2/</id>
-
-        <updated>2024-07-06T12:26:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                    🏩 Alle Zimmer sind mit einer Klimaanlage und einer Minibar (gegen Aufpreis) ausgestattet. 🕘 Die Zimmerübernahme ab 15.00 Uhr und bitte die Zimmer&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li>🏩 Alle Zimmer sind mit einer Klimaanlage und einer Minibar (gegen Aufpreis) ausgestattet.</li>
-<li>🕘 Die Zimmerübernahme ab 15.00 Uhr und bitte die Zimmer bis 11.00 Uhr verlassen.</li>
-<li>🍳 Frühstück: am nächsten Tag zwischen 7:00-11:00 Uhr im Restaurant, in der Unterkunft inbegriffen.</li>
-<li>🅿️ Die Zimmer sind auf zwei Gebäude verteilt, die nahe beieinander liegen: Gebäude A und B.</li>
-</ul>
-<p class="align-center"><span style="text-decoration: underline;">Zimmeraufteilung</span></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>A4</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>A6</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;">Maike Tschiedel<br>Florian Tschiedel<br>Elias Tschiedel</td>
-<td class="align-center" style="width: 49.9288%;">Lucian Cioltan</td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sitzplan</title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/uelesrend-2/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/uelesrend-2/</id>
-
-        <updated>2024-07-06T12:26:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                    🛠️ In Bearbeitung... 🛠️
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center">🛠️ In Bearbeitung... 🛠️</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Szállás</title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas/</id>
-
-        <updated>2024-07-06T11:55:38+02:00</updated>
-            <summary>
-                <![CDATA[
-                    ⚠️ Kérjünk, hogy személyi igazolványt és lakcímkártyát mindenképp hozzatok magatokkal! 🏩 Minden szoba felszerelt légkondicionálóval, mini bárral (saját költségre). 🕘 Szobák elfoglalása 15.00&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li>⚠️ Kérjünk, hogy személyi igazolványt és lakcímkártyát mindenképp hozzatok magatokkal!</li>
-<li>🏩 Minden szoba felszerelt légkondicionálóval, mini bárral (saját költségre).</li>
-<li>🕘 Szobák elfoglalása 15.00 órától, elhagyásuk 11.00 óráig.</li>
-<li>🍳 Reggeli: másnap 7:00-11:00 között az étteremben, melyet a szállás magában foglal.</li>
-<li>🅿️ A szobák két épületben, egymáshoz közel vannak elosztva: <strong>A</strong> és <strong>B</strong> épület. Mindkét épület saját parkolóval rendelkezik (lásd <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">Helyszín</a> menüpont). Kérjük mindenki az épületéhez tartozó parkolót használja.</li>
-</ul>
-<p class="align-center"><span style="text-decoration: underline;">Szobabeosztás</span></p>
-<table style="border-collapse: collapse; width: 100%; height: 129.516px;" border="1">
-<tbody>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 49.9288%; height: 50.3594px;"><strong>A1</strong></td>
-<td class="align-center" style="width: 49.9288%; height: 50.3594px;"><strong>A2</strong></td>
-</tr>
-<tr style="height: 79.1562px;">
-<td class="align-center" style="width: 49.9288%; height: 79.1562px;">Hegedüs Lászlóné<br>Kovács Éva </td>
-<td class="align-center" style="width: 49.9288%; height: 79.1562px;">Kovács Larisza<br>Kovács Attila</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>A3</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>A4</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;">Zajáczné Hegedüs Éva<br>Zajácz András Attila</td>
-<td class="align-center" style="width: 49.9288%;">Maike Tschiedel<br>Florian Tschiedel</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>A5</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>A6</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;">Kovács Dalma<br>Dendel Balázs<br>Rácz Anna Emese<br>Géczi András</td>
-<td class="align-center" style="width: 49.9288%;">Lucian Cioltan</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>A7</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>A8</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;">Koczka Klára<br>Hegedűs László</td>
-<td class="align-center" style="width: 49.9288%;">Pócsik Csaba Levente<br>Kovács Erzsébet<br>Kovács Lóránt</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>A9</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>B1</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;">Zajácz Orsolya Szintia<br>Kovács Attila</td>
-<td class="align-center" style="width: 49.9288%;">Tsorbatzoglou Aphroditi<br>Fülöp Attila</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 49.9288%;"><strong>B2</strong></td>
-<td class="align-center" style="width: 49.9288%;"><strong>B3</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 49.9288%;">Kovács Renáta<br>Hegedűs Ákos</td>
-<td class="align-center" style="width: 49.9288%;">Szásziné Sütő Anikó<br>Szászi Szabolcs Gyula</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%; height: 129.516px;" border="1">
-<tbody>
-<tr style="height: 50.3594px;">
-<td class="align-center" style="width: 49.9288%; height: 50.3594px;"><strong>B4</strong></td>
-<td class="align-center" style="width: 49.9288%; height: 50.3594px;"><strong>B5</strong></td>
-</tr>
-<tr style="height: 79.1562px;">
-<td class="align-center" style="width: 49.9288%; height: 79.1562px;">Papp Gabriella<br>Hegedűs Balázs</td>
-<td class="align-center" style="width: 49.9288%; height: 79.1562px;">Dr. Magyari Dóra<br>Magyari László</td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ülésrend</title>
-        <author>
-            <name>Attila Kovacs</name>
-        </author>
-        <link href="https://ssiberia.github.io/Orsolya_and_Attila/uelesrend/"/>
-        <id>https://ssiberia.github.io/Orsolya_and_Attila/uelesrend/</id>
-
-        <updated>2024-07-06T11:55:05+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/Screenshot-2024-08-29-at-11.34.16.png" alt="ülésrend" width="1100" height="786" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-2xl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Időrend</title>
+        <title>Eseménynapló</title>
         <author>
             <name>Attila Kovacs</name>
         </author>
@@ -211,7 +26,7 @@
         </content>
     </entry>
     <entry>
-        <title>Fotos</title>
+        <title>Photos</title>
         <author>
             <name>Attila Kovacs</name>
         </author>
@@ -221,12 +36,13 @@
         <updated>2024-04-15T20:14:30+02:00</updated>
             <summary>
                 <![CDATA[
-                    Hier wird alle Fotos von unserer Hochzeit hochgeladen.
+                    Fotos werden in ein paar Wochen verfügbar sein (Mitte - Ende Oktober) In der Zwischenzeit möchten wir unser Hochzeitsvideo mit euch teilen!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hier wird alle Fotos von unserer Hochzeit hochgeladen.</p>
+                <p class="align-center">Fotos werden in ein paar Wochen verfügbar sein (Mitte - Ende Oktober)<br><br>In der Zwischenzeit möchten wir unser Hochzeitsvideo mit euch teilen!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DCrQOTW9Xqs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -302,12 +118,122 @@
         <updated>2024-04-15T19:31:40+02:00</updated>
             <summary>
                 <![CDATA[
-                    Itt találhatjátok majd az esküvőnkön készített fotókat 😚
+                    A fotók pár héten belül elérhetőek lesznek (Október közepe - vége) Addig viszont szeretettel megosztjuk veletek esküvői videónkat!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">Itt találhatjátok majd az esküvőnkön készített fotókat 😚</p>
+                <p class="align-center">A fotók pár héten belül elérhetőek lesznek (Október közepe - vége)</p>
+<p class="align-center">Addig viszont szeretettel megosztjuk veletek esküvői videónkat!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DCrQOTW9Xqs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="align-center"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nászajándék</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/</id>
+
+        <updated>2024-04-15T19:08:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    "Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok."
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><em>"Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok."</em></p>
+<figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/6/gift.avif" alt="" width="2000" height="2000"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Étlap</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/etlap/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/etlap/</id>
+
+        <updated>2024-04-15T18:07:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Az étlap az esküvő napján kerül feltötésre.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Az étlap az esküvő napján kerül feltötésre. </p>
+<figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/food.jpg" alt="" width="729" height="486" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xs.jpg 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-sm.jpg 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-md.jpg 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-lg.jpg 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xl.jpg 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Eseménynapló / Tagesplan</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/</id>
+
+        <updated>2024-03-27T20:08:44+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/Esemenyek-.png" alt="" width="1414" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--2xl.png 1600w"><figcaption></figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hochzeit von Orsolya und Attila</title>
+        <author>
+            <name>Attila Kovacs</name>
+        </author>
+        <link href="https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/"/>
+        <id>https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/</id>
+
+        <updated>2024-03-04T10:41:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Einladung Lokation ⛪ Datum 📆 Timeline 🕒 Speisekarte 🍴 Geschenk 🎁 Photos 📸 Herzlich Wilkommen an unserer Webseite! Bitte wendet euch mit euren Unterkunftswünschen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table class="align-center" style="border-collapse: collapse; width: 91.3105%; height: 153px;" border="1">
+<tbody>
+<tr>
+<td style="width: 32.093%;"> </td>
+<td class="align-center" style="width: 35.5039%;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/einladung/">Einladung</a></td>
+<td style="width: 32.4031%;"> </td>
+</tr>
+<tr style="height: 50.3594px;">
+<td class="align-center" style="width: 32.093%; height: 50.3594px;"><a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing">Lokation ⛪</a></td>
+<td class="align-center" style="width: 35.5039%; height: 50.3594px;"><a>Datum 📆</a></td>
+<td class="align-center" style="width: 32.4031%; height: 50.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/">Timeline 🕒</a></td>
+</tr>
+<tr style="height: 49.3594px;">
+<td class="align-center" style="width: 32.093%; height: 49.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/speisekarte/">Speisekarte 🍴</a><a href="https://ssiberia.github.io/Orsolya_and_Attila/etlap/"></a></td>
+<td class="align-center" style="width: 35.5039%; height: 49.3594px;"><a href="https://ssiberia.github.io/Orsolya_and_Attila/geschaenk/">Geschenk 🎁</a></td>
+<td class="align-center" style="width: 32.4031%; height: 49.3594px;"> <a href="https://ssiberia.github.io/Orsolya_and_Attila/photos/">Photos 📸</a></td>
+</tr>
+</tbody>
+</table>
+<figure class="post__image"><img loading="lazy"  src="https://ssiberia.github.io/Orsolya_and_Attila/media/posts/2/Orsolya-es-Attila_de-2-2.pdf" alt=""></figure>
+<p class="align-center">Herzlich Wilkommen an unserer Webseite!</p>
+<p class="align-center">Bitte wendet euch mit euren Unterkunftswünschen und Fragen persönlich an uns.<br><br>Wir möchten uns jeden für eine möglichst komfortable und passende Unterkunft sorgen. Bitte kontaktiert ihr uns daher so bald wie möglich.</p>
+<p> </p>
+<p> </p>
+<p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href="https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing" target="_blank" rel="noopener noreferrer">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href="https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. </p>
+<p>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
+</p>
+<div class="commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2"> </div>
             ]]>
         </content>
     </entry>

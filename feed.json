@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Orsolya and Attila",
+    "title": "Orsolya &amp; Attila",
     "description": "",
     "home_page_url": "https://ssiberia.github.io/Orsolya_and_Attila",
     "feed_url": "https://ssiberia.github.io/Orsolya_and_Attila/feed.json",
@@ -11,64 +11,9 @@
     },
     "items": [
         {
-            "id": "https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas-2/",
-            "url": "https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas-2/",
-            "title": "Unterkunft",
-            "summary": "🏩 Alle Zimmer sind mit einer Klimaanlage und einer Minibar (gegen Aufpreis) ausgestattet. 🕘 Die Zimmerübernahme ab 15.00 Uhr und bitte die Zimmer&hellip;",
-            "content_html": "<ul>\n<li>🏩 Alle Zimmer sind mit einer Klimaanlage und einer Minibar (gegen Aufpreis) ausgestattet.</li>\n<li>🕘 Die Zimmerübernahme ab 15.00 Uhr und bitte die Zimmer bis 11.00 Uhr verlassen.</li>\n<li>🍳 Frühstück: am nächsten Tag zwischen 7:00-11:00 Uhr im Restaurant, in der Unterkunft inbegriffen.</li>\n<li>🅿️ Die Zimmer sind auf zwei Gebäude verteilt, die nahe beieinander liegen: Gebäude A und B.</li>\n</ul>\n<p class=\"align-center\"><span style=\"text-decoration: underline;\">Zimmeraufteilung</span></p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A4</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A6</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Maike Tschiedel<br>Florian Tschiedel<br>Elias Tschiedel</td>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Lucian Cioltan</td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "Attila Kovacs"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-06T12:26:37+02:00",
-            "date_modified": "2024-08-29T11:27:10+02:00"
-        },
-        {
-            "id": "https://ssiberia.github.io/Orsolya_and_Attila/uelesrend-2/",
-            "url": "https://ssiberia.github.io/Orsolya_and_Attila/uelesrend-2/",
-            "title": "Sitzplan",
-            "summary": "🛠️ In Bearbeitung... 🛠️",
-            "content_html": "<p class=\"align-center\">🛠️ In Bearbeitung... 🛠️</p>",
-            "author": {
-                "name": "Attila Kovacs"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-06T12:26:37+02:00",
-            "date_modified": "2024-07-06T12:30:48+02:00"
-        },
-        {
-            "id": "https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas/",
-            "url": "https://ssiberia.github.io/Orsolya_and_Attila/szobabeosztas/",
-            "title": "Szállás",
-            "summary": "⚠️ Kérjünk, hogy személyi igazolványt és lakcímkártyát mindenképp hozzatok magatokkal! 🏩 Minden szoba felszerelt légkondicionálóval, mini bárral (saját költségre). 🕘 Szobák elfoglalása 15.00&hellip;",
-            "content_html": "<ul>\n<li>⚠️ Kérjünk, hogy személyi igazolványt és lakcímkártyát mindenképp hozzatok magatokkal!</li>\n<li>🏩 Minden szoba felszerelt légkondicionálóval, mini bárral (saját költségre).</li>\n<li>🕘 Szobák elfoglalása 15.00 órától, elhagyásuk 11.00 óráig.</li>\n<li>🍳 Reggeli: másnap 7:00-11:00 között az étteremben, melyet a szállás magában foglal.</li>\n<li>🅿️ A szobák két épületben, egymáshoz közel vannak elosztva: <strong>A</strong> és <strong>B</strong> épület. Mindkét épület saját parkolóval rendelkezik (lásd <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">Helyszín</a> menüpont). Kérjük mindenki az épületéhez tartozó parkolót használja.</li>\n</ul>\n<p class=\"align-center\"><span style=\"text-decoration: underline;\">Szobabeosztás</span></p>\n<table style=\"border-collapse: collapse; width: 100%; height: 129.516px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 50.3594px;\">\n<td class=\"align-center\" style=\"width: 49.9288%; height: 50.3594px;\"><strong>A1</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%; height: 50.3594px;\"><strong>A2</strong></td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td class=\"align-center\" style=\"width: 49.9288%; height: 79.1562px;\">Hegedüs Lászlóné<br>Kovács Éva </td>\n<td class=\"align-center\" style=\"width: 49.9288%; height: 79.1562px;\">Kovács Larisza<br>Kovács Attila</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A3</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A4</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Zajáczné Hegedüs Éva<br>Zajácz András Attila</td>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Maike Tschiedel<br>Florian Tschiedel</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A5</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A6</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Kovács Dalma<br>Dendel Balázs<br>Rácz Anna Emese<br>Géczi András</td>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Lucian Cioltan</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A7</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A8</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Koczka Klára<br>Hegedűs László</td>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Pócsik Csaba Levente<br>Kovács Erzsébet<br>Kovács Lóránt</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>A9</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>B1</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Zajácz Orsolya Szintia<br>Kovács Attila</td>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Tsorbatzoglou Aphroditi<br>Fülöp Attila</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>B2</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%;\"><strong>B3</strong></td>\n</tr>\n<tr>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Kovács Renáta<br>Hegedűs Ákos</td>\n<td class=\"align-center\" style=\"width: 49.9288%;\">Szásziné Sütő Anikó<br>Szászi Szabolcs Gyula</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%; height: 129.516px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 50.3594px;\">\n<td class=\"align-center\" style=\"width: 49.9288%; height: 50.3594px;\"><strong>B4</strong></td>\n<td class=\"align-center\" style=\"width: 49.9288%; height: 50.3594px;\"><strong>B5</strong></td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td class=\"align-center\" style=\"width: 49.9288%; height: 79.1562px;\">Papp Gabriella<br>Hegedűs Balázs</td>\n<td class=\"align-center\" style=\"width: 49.9288%; height: 79.1562px;\">Dr. Magyari Dóra<br>Magyari László</td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "Attila Kovacs"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-06T11:55:38+02:00",
-            "date_modified": "2024-08-29T11:26:07+02:00"
-        },
-        {
-            "id": "https://ssiberia.github.io/Orsolya_and_Attila/uelesrend/",
-            "url": "https://ssiberia.github.io/Orsolya_and_Attila/uelesrend/",
-            "title": "Ülésrend",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/Screenshot-2024-08-29-at-11.34.16.png\" alt=\"ülésrend\" width=\"1100\" height=\"786\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/13/responsive/Screenshot-2024-08-29-at-11.34.16-2xl.png 1600w\"></figure>",
-            "author": {
-                "name": "Attila Kovacs"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-06T11:55:05+02:00",
-            "date_modified": "2024-08-29T11:36:13+02:00"
-        },
-        {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-hu/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-hu/",
-            "title": "Időrend",
+            "title": "Eseménynapló",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/Timeline-HU1-.png\" alt=\"\" width=\"1414\" height=\"2000\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/12/responsive/Timeline-HU1--2xl.png 1600w\"></figure>",
             "author": {
                 "name": "Attila Kovacs"
@@ -76,21 +21,21 @@
             "tags": [
             ],
             "date_published": "2024-04-26T14:26:10+02:00",
-            "date_modified": "2024-05-17T12:23:47+02:00"
+            "date_modified": "2024-04-26T14:27:33+02:00"
         },
         {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/photos/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/photos/",
-            "title": "Fotos",
-            "summary": "Hier wird alle Fotos von unserer Hochzeit hochgeladen.",
-            "content_html": "<p>Hier wird alle Fotos von unserer Hochzeit hochgeladen.</p>",
+            "title": "Photos",
+            "summary": "Fotos werden in ein paar Wochen verfügbar sein (Mitte - Ende Oktober) In der Zwischenzeit möchten wir unser Hochzeitsvideo mit euch teilen!",
+            "content_html": "<p class=\"align-center\">Fotos werden in ein paar Wochen verfügbar sein (Mitte - Ende Oktober)<br><br>In der Zwischenzeit möchten wir unser Hochzeitsvideo mit euch teilen!</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/DCrQOTW9Xqs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-04-15T20:14:30+02:00",
-            "date_modified": "2024-05-17T12:35:22+02:00"
+            "date_modified": "2024-10-10T10:32:17+02:00"
         },
         {
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/einladung/",
@@ -137,15 +82,70 @@
             "id": "https://ssiberia.github.io/Orsolya_and_Attila/fotok/",
             "url": "https://ssiberia.github.io/Orsolya_and_Attila/fotok/",
             "title": "Fotók",
-            "summary": "Itt találhatjátok majd az esküvőnkön készített fotókat 😚",
-            "content_html": "<p class=\"align-center\">Itt találhatjátok majd az esküvőnkön készített fotókat 😚</p>",
+            "summary": "A fotók pár héten belül elérhetőek lesznek (Október közepe - vége) Addig viszont szeretettel megosztjuk veletek esküvői videónkat!",
+            "content_html": "<p class=\"align-center\">A fotók pár héten belül elérhetőek lesznek (Október közepe - vége)</p>\n<p class=\"align-center\">Addig viszont szeretettel megosztjuk veletek esküvői videónkat!</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/DCrQOTW9Xqs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p class=\"align-center\"> </p>",
             "author": {
                 "name": "Attila Kovacs"
             },
             "tags": [
             ],
             "date_published": "2024-04-15T19:31:40+02:00",
-            "date_modified": "2024-05-17T12:16:08+02:00"
+            "date_modified": "2024-10-10T10:29:40+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/naszajandek/",
+            "title": "Nászajándék",
+            "summary": "\"Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.\"",
+            "content_html": "<p class=\"align-center\"><em>\"Nagy örömünkre szolgálna, ha a nászajándék helyett a nászutunkhoz hozzájárulnátok.\"</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/6/gift.avif\" alt=\"\" width=\"2000\" height=\"2000\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T19:08:19+02:00",
+            "date_modified": "2024-04-15T19:15:41+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/etlap/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/etlap/",
+            "title": "Étlap",
+            "summary": "Az étlap az esküvő napján kerül feltötésre.",
+            "content_html": "<p class=\"align-center\">Az étlap az esküvő napján kerül feltötésre. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/food.jpg\" alt=\"\" width=\"729\" height=\"486\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xs.jpg 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-sm.jpg 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-md.jpg 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-lg.jpg 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-xl.jpg 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/5/responsive/food-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-15T18:07:27+02:00",
+            "date_modified": "2024-04-15T19:30:11+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/",
+            "title": "Eseménynapló / Tagesplan",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/Esemenyek-.png\" alt=\"\" width=\"1414\" height=\"2000\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xs.png 300w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--sm.png 480w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--md.png 768w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--lg.png 1024w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--xl.png 1360w ,https://ssiberia.github.io/Orsolya_and_Attila/media/posts/4/responsive/Esemenyek--2xl.png 1600w\"><figcaption></figcaption></figure>\n<p> </p>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-27T20:08:44+01:00",
+            "date_modified": "2024-04-15T18:23:08+02:00"
+        },
+        {
+            "id": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
+            "url": "https://ssiberia.github.io/Orsolya_and_Attila/deutsche-version/",
+            "title": "Hochzeit von Orsolya und Attila",
+            "summary": "Einladung Lokation ⛪ Datum 📆 Timeline 🕒 Speisekarte 🍴 Geschenk 🎁 Photos 📸 Herzlich Wilkommen an unserer Webseite! Bitte wendet euch mit euren Unterkunftswünschen&hellip;",
+            "content_html": "<table class=\"align-center\" style=\"border-collapse: collapse; width: 91.3105%; height: 153px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 32.093%;\"> </td>\n<td class=\"align-center\" style=\"width: 35.5039%;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/einladung/\">Einladung</a></td>\n<td style=\"width: 32.4031%;\"> </td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td class=\"align-center\" style=\"width: 32.093%; height: 50.3594px;\"><a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\">Lokation ⛪</a></td>\n<td class=\"align-center\" style=\"width: 35.5039%; height: 50.3594px;\"><a>Datum 📆</a></td>\n<td class=\"align-center\" style=\"width: 32.4031%; height: 50.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/esemenynaplo-tagesplan/\">Timeline 🕒</a></td>\n</tr>\n<tr style=\"height: 49.3594px;\">\n<td class=\"align-center\" style=\"width: 32.093%; height: 49.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/speisekarte/\">Speisekarte 🍴</a><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/etlap/\"></a></td>\n<td class=\"align-center\" style=\"width: 35.5039%; height: 49.3594px;\"><a href=\"https://ssiberia.github.io/Orsolya_and_Attila/geschaenk/\">Geschenk 🎁</a></td>\n<td class=\"align-center\" style=\"width: 32.4031%; height: 49.3594px;\"> <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/photos/\">Photos 📸</a></td>\n</tr>\n</tbody>\n</table>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ssiberia.github.io/Orsolya_and_Attila/media/posts/2/Orsolya-es-Attila_de-2-2.pdf\" alt=\"\"></figure>\n<p class=\"align-center\">Herzlich Wilkommen an unserer Webseite!</p>\n<p class=\"align-center\">Bitte wendet euch mit euren Unterkunftswünschen und Fragen persönlich an uns.<br><br>Wir möchten uns jeden für eine möglichst komfortable und passende Unterkunft sorgen. Bitte kontaktiert ihr uns daher so bald wie möglich.</p>\n<p> </p>\n<p> </p>\n<p>Liebe Gäste,<br><br>weitere Informationen über den genauen Veranstaltungsort, einschließlich der Parkmöglichkeiten, finden Sie unter folgendem Link: 🗺 <a href=\"https://www.google.com/maps/d/u/0/edit?mid=1_bckuK3NpXv6SalkzRQv9uuorwIkfJo&amp;usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">link</a><br>Automatischer Kalendereintrag in Ihrem persönlichen Kalender: 🗓 <a href=\"https://ssiberia.github.io/Orsolya_and_Attila/Orsolya_and_Attila.ics\">link</a><br><br>Für unsere Gäste, die von weiter her anreisen, wenden Sie sich bitte an die Zelebranten, wenn Sie Fragen zur Unterbringung für persönliche Absprachen haben. </p>\n<p>\n<script src=\"https://cdn.commoninja.com/sdk/latest/commonninja.js\" defer=\"defer\"></script>\n</p>\n<div class=\"commonninja_component pid-e239a455-3956-47d2-8421-a5a4444a08a2\"> </div>",
+            "author": {
+                "name": "Attila Kovacs"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-04T10:41:30+01:00",
+            "date_modified": "2024-04-26T14:32:45+02:00"
         }
     ]
 }
